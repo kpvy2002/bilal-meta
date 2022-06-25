@@ -1,7 +1,7 @@
 {
-  "name": "Meta Snake Club #2",
+  "name": "Meta Snake Club ",
   "description": "Elite Snake Club consist of some Stylish Snakes",
-  "image": "1.png",
+  "image": "https://raw.githubusercontent.com/kpvy2002/bilal-meta/main/0.gif",
   "dna": "fafe8fef46a16da7a6eedab847d7b12b9c04fb18",
   "edition": 1,
   "date": 1649879629718,
@@ -26,7 +26,7 @@
       ],
       "files": [
           {
-              "uri": "1.png",
+              "uri": "https://raw.githubusercontent.com/kpvy2002/bilal-meta/main/0.gif",
               "type": "image/gif"
           }
       ]
